@@ -1,0 +1,7 @@
+{
+  "name": "LeonoApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
